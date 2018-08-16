@@ -16,5 +16,5 @@
 #  tasks:
 #    - name: test connection
 #      win_ping:
-#
+#123456
 
