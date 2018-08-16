@@ -16,8 +16,5 @@
 #  tasks:
 #    - name: test connection
 #      win_ping:
-   test
-
-   123
 #
 
